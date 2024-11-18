@@ -1,0 +1,25 @@
+.footer {
+    display: flex !important;
+    justify-content: center;
+    margin : 1.5rem 0!important;
+    margin-bottom: 5rem !important;
+    color: #FFFFFF !important;
+}
+.image1{
+    height: fit-content;
+    display: inline-block;
+    width: 50%;
+}
+.image2{
+    height: fit-content;
+    display: inline-block;
+    transform: translateX(-50%);
+}
+.btnGrp{
+    margin-left: 4.5rem !important;
+}
+.searchBox {
+    margin-left: 0.5rem !important;
+    background-color: #FFFFFF !important;
+    border-radius: 0.3rem !important;
+}

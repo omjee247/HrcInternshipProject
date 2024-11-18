@@ -1,0 +1,28 @@
+#header {
+  background-color: #2d4351;
+  height: fit-content;
+  width: 100%;
+  display: block;
+  color: white;
+}
+#abc_prod {
+  height: fit-content;
+  display: inline-block;
+  width: 50%;
+}
+#header_hrc {
+  height: fit-content;
+  display: inline-block;
+  transform: translateX(-50%);
+}
+body {
+  background-color: #2d4351;
+}
+.buttons {
+  background-color: #2d4351;
+  height: fit-content;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  color: white;
+}
